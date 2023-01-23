@@ -2,7 +2,7 @@
 
 ## Description
   
-This project is to be used as a easy way to create notes, and recall what you need to do later on by selecting old notoes. It was to better get an understanding of how routing and the back end communicates with each file. I learned that you should take all the routes and use the router import to clean up the back end.
+This project is to be used as a easy way to create notes, and recall what you need to do later on by selecting old notes. It was better to get a understanding of how routing and the back end communicates with each file. I learned that you should take all the routes and use the router import to clean up the back end within a index.js file.
   
 ## Table of Contents
   
