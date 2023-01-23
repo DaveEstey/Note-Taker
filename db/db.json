@@ -1,9 +1,5 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "Test Title1",
         "text": "Test text2",
         "uuid": "e2eee9dd-59f6-4550-9731-5c073d76f55d"
