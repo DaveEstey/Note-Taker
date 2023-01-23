@@ -21,6 +21,7 @@ nmp install
 ## Usage
  
 Used node.js and uuid generator: https://www.npmjs.com/package/uuid.
+as well as Heroku for deployment: https://david-estey-note-taker.herokuapp.com/
 
 ## License
   
